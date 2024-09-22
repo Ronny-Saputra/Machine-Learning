@@ -1,2 +1,3 @@
 # Machine-Learning
-Kumpulan model machine learning
+Repository ini merupakan contoh dasar menggunakan Kumpulan model machine learning yang telah saya pelajari
+
